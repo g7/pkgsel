@@ -3,30 +3,25 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of Debian Installer Level 1 - sublevel 1 to malayalam
-# Copyright (c)  2006-2009 Debian Project
-# Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>, 2006-2009
-# Santhosh Thottingal <santhosh00@gmail.com>, 2006
-# Sreejith :: ശ്രീജിത്ത് കെ <sreejithk2000@gmail.com>,  2006
-# Credits:  V Sasi Kumar, Sreejith N, Seena N, Anivar Aravind, Hiran Venugopalan and Suresh P
+# Kazakh messages for debian-installer.
+# Copyright (C) 2003 Software in the Public Interest, Inc.
+# This file is distributed under the same license as debian-installer.
 #
-# Debian Installer master translation file template
-# Don't forget to properly fill-in the header of PO files
-# Debian Installer translators, please read the D-I i18n documentation
-# in doc/i18n/i18n.txt#
+# Talgat Daniyarov
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2008, 2009
+# Dauren Sarsenov <daur88@inbox.ru>, 2008, 2009
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Debian Installer Level 1\n"
+"Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: debian-boot@lists.debian.org\n"
 "POT-Creation-Date: 2008-07-04 19:51+0000\n"
-"PO-Revision-Date: 2009-02-03 14:50-0800\n"
-"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
-"Language-Team: Debian Malayalam <debian-l10n-malayalam@lists.debian.org>\n"
+"PO-Revision-Date: 2009-02-06 15:57+0600\n"
+"Last-Translator: daur88 <daur88@inbox.ru>\n"
+"Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. Type: text
 #. Description
@@ -37,7 +32,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "സോഫ്റ്റ്‌വെയര്‍ തെരഞ്ഞെടുത്തു് ഇന്‍സ്റ്റോള്‍ ചെയ്യുക"
+msgstr "Бағдарлама таңдап, орнату"
 
 #. Type: text
 #. Description
@@ -45,7 +40,7 @@ msgstr "സോഫ്റ്റ്‌വെയര്‍ തെരഞ്ഞെട�
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "ഒരുക്കുന്നു..."
+msgstr "Баптау..."
 
 #. Type: text
 #. Description
@@ -53,7 +48,7 @@ msgstr "ഒരുക്കുന്നു..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "സോഫ്റ്റ്‌വെയര്‍ പുതുക്കിക്കൊണ്ടിരിയ്ക്കുന്നു..."
+msgstr "Бағдарламалық қамтаманы жаңарту..."
 
 #. Type: text
 #. Description
@@ -62,7 +57,7 @@ msgstr "സോഫ്റ്റ്‌വെയര്‍ പുതുക്കി�
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "ടാസ്ക്സെല്‍ പ്രവര്‍ത്തിപ്പിച്ചു് കൊണ്ടിരിയ്ക്കുന്നു..."
+msgstr "Tasksel іске қосу..."
 
 #. Type: text
 #. Description
@@ -71,10 +66,10 @@ msgstr "ടാസ്ക്സെല്‍ പ്രവര്‍ത്തിപ�
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "വൃത്തിയാക്കി കൊണ്ടിരിയ്ക്കുന്നു..."
+msgstr "Тазалау..."
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "${SCRIPT} പ്രവര്‍ത്തിപ്പിച്ചു കൊണ്ടിരിയ്ക്കുന്നു..."
+msgstr "${SCRIPT} іске қосу"
