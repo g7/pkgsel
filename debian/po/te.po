@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: te\n"
 "Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
 "POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: 2010-07-27 14:46+0530\n"
+"PO-Revision-Date: 2011-01-19 21:00+0530\n"
 "Last-Translator: Arjuna Rao Chavala <arjunaraoc@gmail.com>\n"
 "Language-Team: Telugu <debian-in-workers@lists.alioth.debian.org>\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,7 @@ msgstr "సాఫ్ట్వేర్ తాజాకరణ చేయు..."
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "టాస్క్సెల్ నడుపు..."
+msgstr "టాస్క్సెల్(tasksel) నడుపు..."
 
 #. Type: text
 #. Description
