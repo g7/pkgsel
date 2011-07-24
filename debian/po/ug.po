@@ -12,6 +12,8 @@
 # in doc/i18n/i18n.txt
 #
 #
+# Translations from iso-codes:
+# Sahran <sahran.ug@gmail.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: debian-installer\n"
@@ -42,7 +44,7 @@ msgstr "يۇمشاق دېتال تاللاپ ئورنىتىدۇ"
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "تەڭشەۋاتىدۇ…"
+msgstr "تەڭشەك…"
 
 #. Type: text
 #. Description
