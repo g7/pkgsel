@@ -36,7 +36,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr ""
+msgstr "මෘදුකාංග තේරිම සහ ස්ථාපනය"
 
 #. Type: text
 #. Description
@@ -44,7 +44,7 @@ msgstr ""
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr ""
+msgstr "පිහිටුවීම..."
 
 #. Type: text
 #. Description
@@ -52,7 +52,7 @@ msgstr ""
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr ""
+msgstr "මෘදුකාංග යාවත් කරමින්..."
 
 #. Type: text
 #. Description
@@ -61,7 +61,7 @@ msgstr ""
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr ""
+msgstr "tasksel ක්‍රියාත්මක කරමින්..."
 
 #. Type: text
 #. Description
@@ -70,10 +70,10 @@ msgstr ""
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr ""
+msgstr "මකමින්..."
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr ""
+msgstr "${SCRIPT} ක්‍රියාත්මක කරමින්..."
