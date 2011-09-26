@@ -31,7 +31,7 @@ msgstr ""
 "Project-Id-Version: debian-installer\n"
 "Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
 "POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: 2011-09-18 21:28+0100\n"
+"PO-Revision-Date: 2011-09-26 10:46+0100\n"
 "Last-Translator: Marcin Owsiany <porridge@debian.org>\n"
 "Language-Team: Polish <debian-l10n-polish@lists.debian.org>\n"
 "Language: pl\n"
@@ -48,7 +48,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr ""
+msgstr "Wybierz i zainstaluj oprogramowanie"
 
 #. Type: text
 #. Description
@@ -56,7 +56,7 @@ msgstr ""
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr ""
+msgstr "Przygotowanie..."
 
 #. Type: text
 #. Description
@@ -64,7 +64,7 @@ msgstr ""
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr ""
+msgstr "Aktualizacja oprogramowania..."
 
 #. Type: text
 #. Description
@@ -73,7 +73,7 @@ msgstr ""
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr ""
+msgstr "Uruchamianie tasksela..."
 
 #. Type: text
 #. Description
@@ -82,10 +82,10 @@ msgstr ""
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr ""
+msgstr "Sprzątanie..."
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr ""
+msgstr "Uruchamianie ${SCRIPT}..."
