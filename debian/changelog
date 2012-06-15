@@ -1,3 +1,20 @@
+pkgsel (0.36) unstable; urgency=low
+
+  * Team upload
+  * Replace XC-package-Type by Package-Type
+
+  [ Updated translations ]
+  * Tibetan (bo.po) by Tennom
+  * Welsh (cy.po) by Dafydd Tomos
+  * Galician (gl.po) by Jorge Barreiro
+  * Lithuanian (lt.po) by Rimas Kudelis
+  * Latvian (lv.po) by Rūdolfs Mazurs
+  * Macedonian (mk.po) by Arangel Angov
+  * Panjabi (pa.po) by A S Alam
+  * Traditional Chinese (zh_TW.po) by Yao Wei (魏銘廷)
+
+ -- Christian Perrier <bubulle@debian.org>  Fri, 15 Jun 2012 18:40:11 +0200
+
 pkgsel (0.35) unstable; urgency=low
 
   [ Updated translations ]
