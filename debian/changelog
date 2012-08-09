@@ -1,3 +1,11 @@
+pkgsel (0.37) UNRELEASED; urgency=low
+
+  [ Daniel Hartwig ]
+  * Use apt-get to upgrade instead of aptitude, making things
+    consistent with tasksel behaviour.
+
+ -- Christian Perrier <bubulle@debian.org>  Thu, 09 Aug 2012 19:23:24 +0200
+
 pkgsel (0.36) unstable; urgency=low
 
   * Team upload
