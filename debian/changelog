@@ -1,3 +1,10 @@
+pkgsel (0.40) unstable; urgency=low
+
+  [ Updated translations ]
+  * Tajik (tg.po) by Victor Ibragimov
+
+ -- Christian Perrier <bubulle@debian.org>  Sat, 17 Aug 2013 08:36:05 +0200
+
 pkgsel (0.39) unstable; urgency=low
 
   [ Dmitrijs Ledkovs ]
