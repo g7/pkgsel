@@ -1,3 +1,10 @@
+pkgsel (0.41) unstable; urgency=low
+
+  [ Updated translations ]
+  * Hungarian (hu.po) by Judit Gyimesi
+
+ -- Christian Perrier <bubulle@debian.org>  Thu, 19 Dec 2013 20:16:18 +0100
+
 pkgsel (0.40) unstable; urgency=low
 
   [ Updated translations ]
