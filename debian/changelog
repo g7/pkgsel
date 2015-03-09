@@ -1,3 +1,10 @@
+pkgsel (0.43) unstable; urgency=low
+
+  [ Updated translations ]
+  * Danish (da.po) by Joe Hansen
+
+ -- Christian Perrier <bubulle@debian.org>  Mon, 09 Mar 2015 07:49:15 +0100
+
 pkgsel (0.42) unstable; urgency=low
 
   * Drop last use of aptitude. Thanks to Daniel Hartwig for the patch
