@@ -1,8 +1,9 @@
-pkgsel (0.44) UNRELEASED; urgency=medium
+pkgsel (0.44) unstable; urgency=medium
 
+  [ Colin Watson ]
   * Use HTTPS for Vcs-* URLs, and link to cgit rather than gitweb.
 
- -- Colin Watson <cjwatson@debian.org>  Fri, 29 Jan 2016 13:35:22 +0000
+ -- Christian Perrier <bubulle@debian.org>  Sun, 14 Feb 2016 19:25:06 +0100
 
 pkgsel (0.43) unstable; urgency=low
 
