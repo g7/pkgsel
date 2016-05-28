@@ -3,26 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of Debian Installer templates to Esperanto.
-# Copyright (C) 2005-2011 Software in the Public Interest, Inc.
-# This file is distributed under the same license as debian-installer.
-#
-# Samuel Gimeno <sgimeno@gmail.com>, 2005.
-# Serge Leblanc <serge.leblanc@wanadoo.fr>, 2005, 2006, 2007.
-# Felipe Castro <fefcas@gmail.com>, 2008, 2009, 2010, 2011.
-msgid ""
-msgstr ""
-"Project-Id-Version: debian-installer\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: 2011-03-16 20:46-0300\n"
-"Last-Translator: Felipe Castro <fefcas@gmail.com>\n"
-"Language-Team: Esperanto <debian-l10n-esperanto@lists.debian.org>\n"
-"Language: eo\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -32,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "Elekti kaj instali pakojn"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -40,7 +20,7 @@ msgstr "Elekti kaj instali pakojn"
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "Agordado..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -48,7 +28,7 @@ msgstr "Agordado..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "Promociado de programaro..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -57,7 +37,7 @@ msgstr "Promociado de programaro..."
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "Plenumado de 'tasksel'..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -66,10 +46,10 @@ msgstr "Plenumado de 'tasksel'..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "Netigado..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "Interpretado de '${SCRIPT}'..."
+msgstr ""

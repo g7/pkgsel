@@ -3,28 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of d-i.po to Gujarati
-#
-# Debian Installer master translation file template
-# Don't forget to properly fill-in the header of PO files#
-# Debian Installer translators, please read the D-I i18n documentation
-# in doc/i18n/i18n.txt
-# Contributor:
-# Kartik Mistry <kartik.mistry@gmail.com>, 2006-2007.
-#
-msgid ""
-msgstr ""
-"Project-Id-Version: d-i\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: 2008-07-05 11:52+0530\n"
-"Last-Translator: Kartik Mistry <kartik.mistry@gmail.com>\n"
-"Language-Team: Gujarati <team@utkarsh.org>\n"
-"Language: gu\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -34,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "સોફ્ટવેર પસંદ અને સ્થાપિત કરો"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -42,7 +20,7 @@ msgstr "સોફ્ટવેર પસંદ અને સ્થાપિત �
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "ગોઠવે છે..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -50,7 +28,7 @@ msgstr "ગોઠવે છે..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "સોફ્ટવેર સુધારો કરે છે..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -59,7 +37,7 @@ msgstr "સોફ્ટવેર સુધારો કરે છે..."
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "ટાસ્કસેલ ચલાવે છે..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -68,10 +46,10 @@ msgstr "ટાસ્કસેલ ચલાવે છે..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "સાફ કરે છે..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "${SCRIPT} ચલાવે છે..."
+msgstr ""

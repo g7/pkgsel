@@ -3,43 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of debian-installer_packages_po_sublevel1_hi.po to Hindi
-# translation of debian-installer_packages_po_sublevel1_hi.po to
-# Debian Installer master translation file template
-# Don't forget to properly fill-in the header of PO files
-# Debian Installer translators, please read the D-I i18n documentation
-# in doc/i18n/i18n.txt
-#
-#
-#
-# Translations from iso-codes:
-#   Data taken from ICU-2.8; originally from:
-#   - Shehnaz Nagpurwala and Anwar Nagpurwala [first version]
-#   - IBM NLTC:  http://w3.torolab.ibm.com/gcoc/documents/india/hi-nlsgg.htm
-#   - Arundhati Bhowmick [IBM Cupertino]
-#
-#
-# Nishant Sharma <me@nishants.net>, 2005, 2006.
-# Kumar Appaiah <akumar@ee.iitm.ac.in>, 2008.
-# Kumar Appaiah <a.kumar@alumni.iitm.ac.in>, 2008, 2009, 2010.
-# Kumar Appaiah <kumar.appaiah@gmail.com>, 2009.
-#   Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Kumar Appaiah <a.kumar@alumni.iitm.ac.in>, 2008.
-# Kumar Appaiah <kumar.appaiah@gmail.com>, 2008, 2011.
-msgid ""
-msgstr ""
-"Project-Id-Version: debian-installer_packages_po_sublevel1_hi\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: 2011-09-17 09:17-0500\n"
-"Last-Translator: Kumar Appaiah\n"
-"Language-Team: American English <kde-i18n-doc@kde.org>\n"
-"Language: en_US\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: 2X-Generator: KBabel 1.11.2\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -49,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "सॉफ्टवेयर चुनें व संस्थापित करें"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -57,7 +20,7 @@ msgstr "सॉफ्टवेयर चुनें व संस्थापि
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "सेटअप किया जा रहा है..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -65,7 +28,7 @@ msgstr "सेटअप किया जा रहा है..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "सॉफ्टवेयर अपग्रेड किया जा रहा है..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -74,7 +37,7 @@ msgstr "सॉफ्टवेयर अपग्रेड किया जा �
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "टास्कसेल चला रहे हैं..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -83,10 +46,10 @@ msgstr "टास्कसेल चला रहे हैं..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "साफ कर रहे हैं..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "${SCRIPT} प्रक्रिया में है..."
+msgstr ""

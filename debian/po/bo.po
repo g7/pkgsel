@@ -3,21 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# Tibetan translation for Debian Installer.
-msgid ""
-msgstr ""
-"Project-Id-Version: debian-installer\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: 2012-04-14 22:12+0600\n"
-"Last-Translator: Tennom <tankola@ymail.com, tennomyathog@gmail.com>\n"
-"Language-Team: bo <translation-team-bo@lists.sourceforge.net>\n"
-"Language: bo\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -27,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "བདམས་ནས་མཉེན་ཆས་སྒྲིག་འཇུག་བྱེད་པ"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -35,7 +20,7 @@ msgstr "བདམས་ནས་མཉེན་ཆས་སྒྲིག་འཇ
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "སྒྲིག་འཛུགས་བྱེད་བཞིན་པ་་་"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -43,7 +28,7 @@ msgstr "སྒྲིག་འཛུགས་བྱེད་བཞིན་པ་
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "རིམ་སྤར་བྱེད་བཞིན་པ་་་"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -52,7 +37,7 @@ msgstr "རིམ་སྤར་བྱེད་བཞིན་པ་་་"
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "taskselའཁོར་སྐྱོད་བཞིན་པ་་་"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -61,10 +46,10 @@ msgstr "taskselའཁོར་སྐྱོད་བཞིན་པ་་་"
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "གཙང་མ་བཟོ་བཞིན་པ་་་"
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "${SCRIPT}འཁོར་སྐྱོད་བཞིན་པ་་་"
+msgstr ""
