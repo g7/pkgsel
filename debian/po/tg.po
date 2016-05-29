@@ -3,6 +3,28 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
+#
+# Debian Installer master translation file template
+# Don't forget to properly fill-in the header of PO files
+#
+# Debian Installer translators, please read the D-I i18n documentation
+# in doc/i18n/i18n.txt
+# Victor Ibragimov <victor.ibragimov@gmail.com>, 2013
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: debian-installer\n"
+"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
+"POT-Creation-Date: 2009-08-28 22:48+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Tajik <victor.ibragimov@gmail.com>\n"
+"Language: Tajik\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+
 #. Type: text
 #. Description
 #. Main menu item
@@ -12,7 +34,7 @@
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr ""
+msgstr "Интихоб ва насб кардани нармафзор"
 
 #. Type: text
 #. Description
@@ -20,7 +42,7 @@ msgstr ""
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr ""
+msgstr "Танзим шуда истодааст..."
 
 #. Type: text
 #. Description
@@ -28,7 +50,7 @@ msgstr ""
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr ""
+msgstr "Такмилдиҳии нармафзор..."
 
 #. Type: text
 #. Description
@@ -37,7 +59,7 @@ msgstr ""
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr ""
+msgstr "Иҷрокунии tasksel..."
 
 #. Type: text
 #. Description
@@ -46,10 +68,10 @@ msgstr ""
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr ""
+msgstr "Пок шуда истодааст..."
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr ""
+msgstr "Иҷрокунии ${SCRIPT}..."

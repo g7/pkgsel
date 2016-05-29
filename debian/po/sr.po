@@ -3,6 +3,36 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
+# Serbian/Cyrillic messages for debian-installer.
+# Copyright (C) 2010-2012 Software in the Public Interest, Inc.
+# Copyright (C) 2008 THE cp6Linux'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the debian-installer package.
+# Karolina Kalic <karolina@resenje.org>, 2010-2012.
+# Janos Guljas <janos@resenje.org>, 2010-2012.
+# Veselin Mijušković <veselin.mijuskovic@gmail.com>, 2008.
+# Milan Kostic <kosticmilan77@open.telekom.rs>, 2012.
+#
+# Translations from iso-codes:
+#   Aleksandar Jelenak <aleksandar.jelenak@gmail.com>, 2010.
+#   Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+#   Danilo Segan <dsegan@gmx.net>, 2003, 2004, 2005.
+#   Milos Komarcevic <kmilos@gmail.com>, Caslav Ilic <caslav.ilic@gmx.net>, 2009.
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: debian-installer\n"
+"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
+"POT-Creation-Date: 2009-08-28 22:48+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Serbian <debian-l10n-serbian@lists.debian.org>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 #. Type: text
 #. Description
 #. Main menu item
@@ -12,7 +42,7 @@
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr ""
+msgstr "Изабери и инсталирај програме"
 
 #. Type: text
 #. Description
@@ -20,7 +50,7 @@ msgstr ""
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr ""
+msgstr "Подешавање у току..."
 
 #. Type: text
 #. Description
@@ -28,7 +58,7 @@ msgstr ""
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr ""
+msgstr "Ажурирање софтвера..."
 
 #. Type: text
 #. Description
@@ -37,7 +67,7 @@ msgstr ""
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr ""
+msgstr "Покретање „tasksel“ програма..."
 
 #. Type: text
 #. Description
@@ -46,10 +76,10 @@ msgstr ""
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr ""
+msgstr "Чишћење..."
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr ""
+msgstr "Извршавање скрипте ${SCRIPT}..."

@@ -3,6 +3,44 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
+# Bangla translation of Debian-Installer.
+# Copyright (C) 2005, 2006, Debian Foundation.
+# This file is distributed under the same license as the Debian-Installer package.
+# Anubadok, the en2bn auto-translator by Golam Mortuza Hossain <golam@imsc.res.in>, 2005.
+# Baishampayan Ghose <b.ghose@gnu.org.in>, 2005-2006.
+# Quazi Ashfaq-ur Rahman <quazi.ashfaq@gmail.com>, 2005.
+# Khandakar Mujahidul Islam <suzan@bengalinux.org>, 2005, 2006.
+# Progga <progga@BengaLinux.Org>, 2005, 2006.
+# Jamil Ahmed <jamil@bengalinux.org>, 2006-2007.
+# Mahay Alam Khan (মাহে আলম খান) <makl10n@yahoo.com>, 2007.
+# Tisa Nafisa <tisa_nafisa@yahoo.com>, 2007.
+# Md. Rezwan Shahid <rezwan@ankur.org.bd>, 2009.
+# Ayesha Akhtar <ayesha@ankur.org.bd>, 2010.
+# Israt Jahan <israt@ankur.org.bd>, 2010.
+# Zenat Rahnuma <zenat@ankur.org.bd>, 2011.
+#
+# Translations from iso-codes:
+#   Debian Foundation, 2005.
+#   Progga <progga@BengaLinux.Org>, 2005.
+#   Jamil Ahmed <jamil@bengalinux.org>, 2006.
+#   Md. Rezwan Shahid <rezwan@ankur.org.bd>, 2009.
+#   Israt Jahan <israt@ankur.org.bd>, 2010.
+#   Ayesha Akhtar <ayesha@ankur.org.bd>, 2012.
+#   Robin Mehdee (রবিন মেহদী) <robin@ankur.org.bd>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: bn\n"
+"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
+"POT-Creation-Date: 2009-08-28 22:48+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Bengali \n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
 #. Type: text
 #. Description
 #. Main menu item
@@ -12,7 +50,7 @@
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr ""
+msgstr "সফটওয়্যার বাছাই ও ইনস্টল করুন"
 
 #. Type: text
 #. Description
@@ -20,7 +58,7 @@ msgstr ""
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr ""
+msgstr "প্রস্তুত হচ্ছে..."
 
 #. Type: text
 #. Description
@@ -28,7 +66,7 @@ msgstr ""
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr ""
+msgstr "সফটওয়্যার আপগ্রেড হচ্ছে..."
 
 #. Type: text
 #. Description
@@ -37,7 +75,7 @@ msgstr ""
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr ""
+msgstr "টাস্কসেল চালানো হচ্ছে..."
 
 #. Type: text
 #. Description
@@ -46,10 +84,10 @@ msgstr ""
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr ""
+msgstr "পরিষ্কার করা হচ্ছে..."
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr ""
+msgstr "${SCRIPT} চলছে..."
