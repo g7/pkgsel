@@ -3,34 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of ta.po to Tamil
-# Tamil messages for debian-installer.
-# Copyright (C) 2003 Software in the Public Interest, Inc.
-# This file is distributed under the same license as debian-installer.
-#
-#
-# Translations from iso-codes:
-# drtvasudevan <agnihot3@gmail.com>, 2006.
-# Damodharan Rajalingam <rdamodharan@gmail.com>, 2006.
-# Dr.T.Vasudevan <drtvasudevan@gmail.com>, 2007, 2008, 2010.
-# Dr,T,Vasudevan <agnihot3@gmail.com>, 2010.
-#   Dr.T.Vasudevan <drtvasudevan@gmail.com>, 2007, 2008, 2011, 2012, 2015.
-#   Dwayne Bailey <dwayne@translate.org.za>, 2009.
-# I. Felix <ifelix25@gmail.com>, 2009, 2012.
-msgid ""
-msgstr ""
-"Project-Id-Version: ta\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Tamil <<gnome-tamil-translation@googlegroups.com>>\n"
-"Language: ta\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -40,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "மென்பொருளை தேர்வு செய்து நிறுவு"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -48,7 +20,7 @@ msgstr "மென்பொருளை தேர்வு செய்து ந
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "அமைக்கிறது...."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -56,7 +28,7 @@ msgstr "அமைக்கிறது...."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "மென்பொருளை மேம்படுத்துகிறது..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -65,7 +37,7 @@ msgstr "மென்பொருளை மேம்படுத்துகி�
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "(tasksel) வேலை தேர்வு செயற்படுகிறது....."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -74,10 +46,10 @@ msgstr "(tasksel) வேலை தேர்வு செயற்படுகி
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "துடைக்கிறது...."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "${SCRIPT} இயக்கப்படுகிறது..."
+msgstr ""

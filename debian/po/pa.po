@@ -3,38 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of pa.po to Punjabi
-#
-# Debian Installer master translation file template
-# Don't forget to properly fill-in the header of PO files#
-# Debian Installer translators, please read the D-I i18n documentation
-# in doc/i18n/i18n.txt#
-#
-#
-# Translations from iso-codes:
-# Amanpreet Singh Alam <amanpreetalam@yahoo.com>, 2005.
-# Amanpreet Singh Alam <apreet.alam@gmail.com>, 2006.
-# A S Alam <aalam@users.sf.net>, 2006, 2007.
-# A S Alam <aalam@users.sf.net>, 2007, 2010.
-# Amanpreet Singh Alam <apreet.alam@gmail.com>, 2008.
-# Amanpreet Singh Brar <aalam@users.sf.net>, 2008.
-# Amanpreet Singh Alam <aalam@users.sf.net>, 2008, 2009.
-# Amanpreet Singh Alam[ਆਲਮ] <amanpreetalam@yahoo.com>, 2005.
-# A S Alam <aalam@users.sf.net>, 2009, 2012, 2014.
-msgid ""
-msgstr ""
-"Project-Id-Version: pa\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Punjabi/Panjabi <punjabi-users@lists.sf.net>\n"
-"Language: pa\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -44,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "ਸਾਫਟਵੇਅਰ ਚੁਣੋ ਅਤੇ ਇੰਸਟਾਲ ਕਰੋ"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -52,7 +20,7 @@ msgstr "ਸਾਫਟਵੇਅਰ ਚੁਣੋ ਅਤੇ ਇੰਸਟਾਲ ਕ�
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "ਸੈੱਟਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -60,7 +28,7 @@ msgstr "ਸੈੱਟਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "ਸਾਫਟਵੇਅਰ ਅੱਪਗਰੇਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -69,7 +37,7 @@ msgstr "ਸਾਫਟਵੇਅਰ ਅੱਪਗਰੇਡ ਕੀਤਾ ਜਾ ਰ�
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "tasksel ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -78,10 +46,10 @@ msgstr "tasksel ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "ਸਾਫ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "${SCRIPT} ਚੱਲ ਰਹੀ ਹੈ..."
+msgstr ""

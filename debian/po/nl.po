@@ -3,40 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of nl.po to Dutch
-# Dutch messages for debian-installer.
-# Copyright (C) 2003 Software in the Public Interest, Inc.
-# This file is distributed under the same license as debian-installer.
-# Frans Pop <aragorn@tiscali.nl>, 2005.
-# Frans Pop <elendil@planet.nl>, 2007, 2008, 2009, 2010.
-# Eric Spreen <erispre@gmail.com>, 2010.
-# Jeroen Schot <schot@a-eskwadraat.nl>, 2011, 2012.
-#
-# Translations from iso-codes:
-# Translations taken from ICU SVN on 2007-09-09.
-# Tobias Toedter <t.toedter@gmx.net>, 2007.
-#
-# Elros Cyriatan <cyriatan@fastmail.fm>, 2004.
-# Luk Claes <luk.claes@ugent.be>, 2005.
-# Freek de Kruijf <f.de.kruijf@hetnet.nl>, 2006, 2007, 2008, 2009, 2010, 2011.
-# Taco Witte <tcwitte@cs.uu.nl>, 2004.
-# Reinout van Schouwen <reinouts@gnome.org>, 2007.
-# Frans Spiesschaert <Frans.Spiesschaert@yucom.be>, 2014, 2015, 2016.
-#
-msgid ""
-msgstr ""
-"Project-Id-Version: debian-installer/sublevel1\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>\n"
-"Language: nl\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -46,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "Programmatuur selecteren en installeren"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -54,7 +20,7 @@ msgstr "Programmatuur selecteren en installeren"
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "Bezig met instellen..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -62,7 +28,7 @@ msgstr "Bezig met instellen..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "Bezig met opwaarderen van programmatuur..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -71,7 +37,7 @@ msgstr "Bezig met opwaarderen van programmatuur..."
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "Bezig met uitvoeren van tasksel..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -80,10 +46,10 @@ msgstr "Bezig met uitvoeren van tasksel..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "Bezig met opruimen..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "${SCRIPT} wordt uitgevoerd..."
+msgstr ""

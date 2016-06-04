@@ -3,36 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of debian-installer_packages_po_sublevel1_mk.po to Macedonian
-# translation of mk.po to
-# Macedonian strings from the debian-installer.
-#
-# Georgi Stanojevski, <glisha@gmail.com>, 2004, 2005, 2006.
-# Georgi Stanojevski <georgis@unet.com.mk>, 2005, 2006.
-#
-# Translations from iso-codes:
-#   Alastair McKinstry <mckinstry@computer.org>, 2002
-#   Arangel Angov <ufo@linux.net.mk>, 2008.
-#   Free Software Foundation, Inc., 2002,2004
-#   Georgi Stanojevski <glisha@gmail.com>, 2004, 2006.
-# Translations from KDE:
-#   Danko Ilik <danko@mindless.com>
-# Arangel Angov <arangel@linux.net.mk>, 2008, 2011.
-#
-msgid ""
-msgstr ""
-"Project-Id-Version: debian-installer_packages_po_sublevel1_mk\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Macedonian <>\n"
-"Language: mk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n!=1);\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -42,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "Избери и инсталирај програми"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -50,7 +20,7 @@ msgstr "Избери и инсталирај програми"
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "Поставување..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -58,7 +28,7 @@ msgstr "Поставување..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "Надградувам софтвер..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -67,7 +37,7 @@ msgstr "Надградувам софтвер..."
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "Извршување на tasksel..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -76,10 +46,10 @@ msgstr "Извршување на tasksel..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "Чистење..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "Извршувам ${SCRIPT}..."
+msgstr ""

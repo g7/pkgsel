@@ -3,38 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of eu.po to Euskara
-# Basque messages for debian-installer.
-# Copyright (C) 2003 Software in the Public Interest, Inc.
-# This file is distributed under the same license as debian-installer.
-# Translations from iso-codes:
-# Copyright (C)
-# Translations from KDE:
-# Piarres Beobide <pi@beobide.net>, 2004-2009, 2011.
-# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2008, 2010.
-# Mikel Olasagasti <hey_neken@mundurat.net>, 2004.
-# Piarres Beobide Egaña <pi@beobide.net>, 2004,2006,2007, 2008, 2009.
-# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2010.
-# Free Software Foundation, Inc., 2002.
-# Alastair McKinstry <mckinstry@computer.org>, 2002.
-# Marcos Goienetxe <marcos_g@infonegocio.com>, 2002.
-# Piarres Beobide <pi@beobide.net>, 2008.
-# Xabier Bilbao <xabidu@gmail.com>, 2008.
-msgid ""
-msgstr ""
-"Project-Id-Version: eu\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: debian-l10n-eu@lists.debian.org\n"
-"Language: eu\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Content-Transfer-Encoding=UTF-8Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -44,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "Hautatu eta instalatu softwarea"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -52,7 +20,7 @@ msgstr "Hautatu eta instalatu softwarea"
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "Konfiguratzen..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -60,7 +28,7 @@ msgstr "Konfiguratzen..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "Softwarea bertsio-berritzen..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -69,7 +37,7 @@ msgstr "Softwarea bertsio-berritzen..."
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "Tasksel abiarazten..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -78,10 +46,10 @@ msgstr "Tasksel abiarazten..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "Garbitzen..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "${SCRIPT} exekutatzen..."
+msgstr ""

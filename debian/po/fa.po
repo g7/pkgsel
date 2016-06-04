@@ -3,35 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# Persian messages for debian-installer.
-# Copyright (C) 2003 Software in the Public Interest, Inc.
-# This file is distributed under the same license as debian-installer.
-# , 2005.
-#
-# Translations from iso-codes:
-#   Alastair McKinstry - further translations from ICU-3.0
-#   Alastair McKinstry <mckinstry@computer.org>, 2001,2004.
-#   Free Software Foundation, Inc., 2001,2003,2004
-#   Roozbeh Pournader <roozbeh@farsiweb.info>, 2004,2005.
-#   Sharif FarsiWeb, Inc., 2004
-#   Tobias Quathamer <toddy@debian.org>, 2007.
-#     Translations taken from ICU SVN on 2007-09-09
-#   Translations from kde:
-#   - FarsiKDE Team <info@farsikde.org>
-#
-msgid ""
-msgstr ""
-"Project-Id-Version: fa\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Debian-l10n-persian <debian-l10n-persian@lists.debian.org>\n"
-"Language: fa\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -41,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "انتخاب و نصب نرم‌افزار"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -49,7 +20,7 @@ msgstr "انتخاب و نصب نرم‌افزار"
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "در حال پیکربندی ..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -57,7 +28,7 @@ msgstr "در حال پیکربندی ..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "به روز رسانی نرم افزار ..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -66,7 +37,7 @@ msgstr "به روز رسانی نرم افزار ..."
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "اجرای Tasksel ..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -75,10 +46,10 @@ msgstr "اجرای Tasksel ..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "پاک سازی ..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "در حال اجرای ${SCRIPT}..."
+msgstr ""

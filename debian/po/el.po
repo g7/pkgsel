@@ -3,45 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# translation of el.po to
-# Greek messages for debian-installer.
-# Copyright (C) 2003 Software in the Public Interest, Inc.
-# This file is distributed under the same license as debian-installer.
-#
-#
-# Translations from iso-codes:
-#     Translations taken from ICU SVN on 2007-09-09
-#   Panayotis Pakos <aeikineton@yahoo.com>
-# George Papamichelakis <george@step.gr>, 2004.
-# Emmanuel Galatoulas <galas@tee.gr>, 2004.
-# Konstantinos Margaritis <markos@debian.org>, 2004, 2006.
-# Greek Translation Team <debian-l10n-greek@lists.debian.org>, 2004, 2005.
-# quad-nrg.net <galaxico@quad-nrg.net>, 2005, 2006, 2007.
-# quad-nrg.net <yodesy@quad-nrg.net>, 2006, 2008.
-# QUAD-nrg.net <yodesy@quad-nrg.net>, 2006.
-# galaxico@quad-nrg.net <galaxico@quad-nrg.net>, 2009, 2011.
-# Emmanuel Galatoulas <galaxico@quad-nrg.net>, 2009, 2010, 2013, 2014.
-#   Tobias Quathamer <toddy@debian.org>, 2007.
-#   Free Software Foundation, Inc., 2004.
-#   Alastair McKinstry <mckinstry@computer.org>, 2001.
-#   QUAD-nrg.net <yodesy@quad-nrg.net>, 2006, 2010.
-#   Simos Xenitellis <simos@hellug.gr>, 2001.
-#   Konstantinos Margaritis <markos@debian.org>, 2004.
-#   Athanasios Lefteris <alefteris@gmail.com>, 2008, 2012.
-msgid ""
-msgstr ""
-"Project-Id-Version: el\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: el <debian-l10n-greek@lists.debian.org>\n"
-"Language: el\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -51,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "Επιλέξτε και εγκαταστήστε λογισμικό"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -59,7 +20,7 @@ msgstr "Επιλέξτε και εγκαταστήστε λογισμικό"
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "Ρύθμιση..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -67,7 +28,7 @@ msgstr "Ρύθμιση..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "Αναβάθμιση του λογισμικού..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -76,7 +37,7 @@ msgstr "Αναβάθμιση του λογισμικού..."
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "Εκτέλεση του tasksel..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -85,10 +46,10 @@ msgstr "Εκτέλεση του tasksel..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "Τακτοποίηση..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "Εκτελείται το ${SCRIPT}..."
+msgstr ""

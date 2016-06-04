@@ -3,38 +3,6 @@
 #
 # DO NOT MODIFY THIS FILE DIRECTLY: SUCH CHANGES WILL BE LOST
 #
-# Slovak messages for debian-installer.
-# Copyright (C) 2003 Software in the Public Interest, Inc.
-# This file is distributed under the same license as debian-installer.
-# Peter Mann <peter.mann@tuke.sk>
-# Ivan Masár <helix84@centrum.sk>, 2007, 2008, 2009, 2010, 2011, 2013, 2014, 2015.
-# Translations from iso-codes:
-# (translations from drakfw)
-# Alastair McKinstry <mckinstry@computer.org>, 2001, 2002.
-# Copyright (C) 2002 Free Software Foundation, Inc.
-# Free Software Foundation, Inc., 2004
-# Ivan Masár <helix84@centrum.sk>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015.
-# Translations taken from sk.wikipedia.org on 2008-06-17
-# Pavol Cvengros <orpheus@hq.alert.sk>, 2001.
-# Peter Mann <Peter.Mann@tuke.sk>, 2004, 2006.
-# bronto, 2007.
-# source:
-# http://www.geodesy.gov.sk
-# http://www.fao.org/ (historic names)
-msgid ""
-msgstr ""
-"Project-Id-Version: debian-installer\n"
-"Report-Msgid-Bugs-To: pkgsel@packages.debian.org\n"
-"POT-Creation-Date: 2009-08-28 22:48+0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: x\n"
-"Language: sk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-
 #. Type: text
 #. Description
 #. Main menu item
@@ -44,7 +12,7 @@ msgstr ""
 #. "install *packages*" which is less adapted for non technical users
 #: ../pkgsel.templates:1001
 msgid "Select and install software"
-msgstr "Voľba a inštalácia softvéru"
+msgstr ""
 
 #. Type: text
 #. Description
@@ -52,7 +20,7 @@ msgstr "Voľba a inštalácia softvéru"
 #. The text is used when pkgsel is launched, before it installs packages
 #: ../pkgsel.templates:2001
 msgid "Setting up..."
-msgstr "Nastavuje sa..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -60,7 +28,7 @@ msgstr "Nastavuje sa..."
 #. The text is used when upgrading already installed packages.
 #: ../pkgsel.templates:4001
 msgid "Upgrading software..."
-msgstr "Aktualizuje sa softvér..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -69,7 +37,7 @@ msgstr "Aktualizuje sa softvér..."
 #. Tasksel will then display its own screens
 #: ../pkgsel.templates:5001
 msgid "Running tasksel..."
-msgstr "Prebieha výber úloh „tasksel“..."
+msgstr ""
 
 #. Type: text
 #. Description
@@ -78,10 +46,10 @@ msgstr "Prebieha výber úloh „tasksel“..."
 #. cleaning up pkgsel's stuff
 #: ../pkgsel.templates:6001
 msgid "Cleaning up..."
-msgstr "Prebieha čistenie..."
+msgstr ""
 
 #. Type: text
 #. Description
 #: ../pkgsel.templates:8001
 msgid "Running ${SCRIPT}..."
-msgstr "Spúšťa sa ${SCRIPT}..."
+msgstr ""
