@@ -137,7 +137,13 @@ fi
 
 log "starting tasksel"
 db_progress INFO pkgsel/progress/tasksel
-DEBIAN_TASKS_ONLY=1 in-target sh -c "tasksel --new-install --debconf-apt-progress='--from $tasksel_start --to $tasksel_end --logstderr'" || aptfailed
+db_get pkgsel/allow-foreign-tasks
+if [ "$RET" == "true" ]; then
+	_debian_tasks_only=0
+else
+	_debian_tasks_only=1
+fi
+DEBIAN_TASKS_ONLY=$_debian_tasks_only in-target sh -c "tasksel --new-install --debconf-apt-progress='--from $tasksel_start --to $tasksel_end --logstderr'" || aptfailed
 
 if db_get pkgsel/include/install-recommends; then
 	log "The template pkgsel/include/install-recommends is no longer used; please use base-installer/install-recommends instead"
